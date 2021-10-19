@@ -1,0 +1,84 @@
+{
+    "results": [
+        {
+            "id": 1,
+            "name": "Leanne Graham",
+            "maths": 75,
+            "phy": 75,
+            "chem": 75,
+            "eng": 75
+        },
+        {
+            "id": 2,
+            "name": "Ervin Howell",
+            "maths": 76,
+            "phy": 76,
+            "chem": 76,
+            "eng": 76
+        },
+        {
+            "id": 3,
+            "name": "Clementine Bauch",
+            "maths": 77,
+            "phy": 77,
+            "chem": 77,
+            "eng": 77
+        },
+        {
+            "id": 4,
+            "name": "Patricia Lebsack",
+            "maths": 78,
+            "phy": 78,
+            "chem": 78,
+            "eng": 78
+        },
+        {
+            "id": 5,
+            "name": "Chelsey Dietrich",
+            "maths": 75,
+            "phy": 75,
+            "chem": 75,
+            "eng": 75
+        },
+        {
+            "id": 6,
+            "name": "Mrs. Dennis Schulist",
+            "maths": 76,
+            "phy": 76,
+            "chem": 76,
+            "eng": 76
+        },
+        {
+            "id": 7,
+            "name": "Kurtis Weissnat",
+            "maths": 77,
+            "phy": 77,
+            "chem": 77,
+            "eng": 77
+        },
+        {
+            "id": 8,
+            "name": "Nicholas Runolfsdottir V",
+            "maths": 78,
+            "phy": 78,
+            "chem": 78,
+            "eng": 78
+        },
+        {
+            "id": 9,
+            "name": "Glenna Reichert",
+            "maths": 77,
+            "phy": 77,
+            "chem": 77,
+            "eng": 77
+        },
+        {
+            "id": 10,
+            "name": "Clementina DuBuque",
+            "maths": 78,
+            "phy": 78,
+            "chem": 78,
+            "eng": 78
+        }
+    ]
+}
